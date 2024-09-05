@@ -16,12 +16,10 @@ I'm an algorithm researcher of Alibaba Search and Recommendation Department, wor
 The vision is to develop large-scale visual searching system (拍立淘) and general multi-modal technologies for various e-commerce applications, such as superlarge-scale pre-training (10-billion image-text product data), AIGC (GPT & VLM & Diffusion). 
 Now it has become one of the largest visual/multi-modal application scenarios in China.
 
-I’m recently leading one small group that mainly works on Efficient Data Understanding & Generation for Multi-Modal Foundation Models(Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). 
-
-<b>Actively recruiting research/engineering interns, please see <a href="https://zhuanlan.zhihu.com/p/707679629?utm_campaign=shareopn&utm_medium=social&utm_psn=1793706250598506498&utm_source=wechat_session">Link</a>, feel free to contact me!</b>  
+I’m recently leading one small group that mainly works on Efficient Data Understanding & Generation for Multi-Modal Foundation Models(Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). <b>Actively recruiting research/engineering interns, please see <a href="https://zhuanlan.zhihu.com/p/707679629?utm_campaign=shareopn&utm_medium=social&utm_psn=1793706250598506498&utm_source=wechat_session">Link</a>, feel free to contact me!</b>  
 
 
-Recently, I also study with some outstanding researchers from the CAD\&CG State Key Laboratory (CAD\&CG国家重点实验室), Zhejiang University: <a href="https://cshen.github.io/">Prof. Chunhua Shen</a>, <a href="https://scholar.google.com.hk/citations?user=FaOqRpcAAAAJ&hl=zh-CN">Prof. Hao Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=DFuDBBwAAAAJ&hl=zh-CN">Prof. Bohan Zhuang</a>, aiming to explore the next generation of VLM.
+Recently, I also study with some outstanding researchers from the CAD&CG State Key Laboratory, Zhejiang University: <a href="https://cshen.github.io/">Prof. Chunhua Shen</a>, <a href="https://scholar.google.com.hk/citations?user=FaOqRpcAAAAJ&hl=zh-CN">Prof. Hao Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=DFuDBBwAAAAJ&hl=zh-CN">Prof. Bohan Zhuang</a>, aiming to explore the next generation of VLM.
 
 
 Before that, I explore with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
