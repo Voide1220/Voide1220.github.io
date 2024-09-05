@@ -21,7 +21,10 @@ I’m recently leading one small group that mainly works on Efficient Data Under
 <b>Actively recruiting research/engineering interns, please see <a href="https://zhuanlan.zhihu.com/p/707679629?utm_campaign=shareopn&utm_medium=social&utm_psn=1793706250598506498&utm_source=wechat_session">Link</a>, feel free to contact me!</b>  
 
 
-Before that, I study with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
+Recently, I also study with some outstanding researchers from the CAD\&CG State Key Laboratory (CAD\&CG国家重点实验室), Zhejiang University: <a href="https://cshen.github.io/">Prof. Chunhua Shen</a>, <a href="https://scholar.google.com.hk/citations?user=FaOqRpcAAAAJ&hl=zh-CN">Prof. Hao Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=DFuDBBwAAAAJ&hl=zh-CN">Prof. Bohan Zhuang</a>, aiming to explore the next generation of VLM.
+
+
+Before that, I explore with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
 
 
 Earlier, I collaborate with some outstanding researchers from PanGu Large Model (盘古大模型), Huawei: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, <a href="https://scholar.google.com.hk/citations?user=-JcFoOoAAAAJ&hl=zh-CN&oi=ao">Dr. Jiemin Fang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>, to explore VLM for B-side industrial scenarios.
@@ -31,7 +34,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
-<b> Google Scholar:</b> Citations 760+, H-index 11, I10-index 12 </p>  
+<b> Google Scholar:</b> Citations 800+, H-index 11, I10-index 13 </p>  
 
 
 
