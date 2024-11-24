@@ -91,7 +91,7 @@ Also feel free to drop me an email for any suggestions or potential collaboratio
 
 1. FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance                                
 Haicheng Wang, Zhemeng Yu, Gabriele Spadaro, **Chen Ju**, Victor Quétu, Enzo Tartaglione                 
-ArXiv 2025 
+ArXiv preprint 2025 
 
 
 
@@ -115,12 +115,12 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 
 1. Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training                               
 Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huang, Chang Liu, Mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu and Yanfeng Wang          
-ArXiv 2025 
+ArXiv preprint 2025 
 
 
 1. Greater Together: Unimodal Group Outperforms Vanilla Multimodal Bootstrap                                    
 Weixiong Lin, **Chen Ju**, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu                                      
-ArXiv 2025 
+ArXiv preprint 2025 
 
 
 
@@ -139,7 +139,7 @@ Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang
 
 1. [DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition](https://arxiv.org/pdf/2404.14890.pdf) \| [[Bibtex](./CITE/cite_robust.txt)]                                   
 Haozhe Cheng, **Chen Ju**, Haicheng Wang, Jinxiang Liu, Mengting Chen, Qiang Hu, Xiaoyun Zhang and Yanfeng Wang            
-arXiv preprint 2024
+ArXiv preprint 2024
 
 
 
@@ -154,11 +154,11 @@ Mengting Chen, Xi Chen, Zhonghua Zhai, **Chen Ju**, Xuewen Hong, Jinsong Lan and
 
 1. Improving Human Image Animation via Semantic Representation Alignment                                        
 Chang Liu, Mengting Chen, Yixuan Huang, Haoning Wu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan and Yanfeng Wang               
-ArXiv 2025 
+ArXiv preprint 2025 
 
 1. AnyScene: Camera-controllable Video Background Generation                                      
 Mingshuai Yao, Mengting Chen, Qinye Zhou, Yabo Zhang, Ming Liu, Xiaoming Li, Shaohui Liu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan, Wangmeng Zuo                       
-ArXiv 2025 
+ArXiv preprint 2025 
 
 
 
@@ -179,7 +179,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 
 1. [Audio-Aware Query-Enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|  [[Bibtex](./CITE/cite_aqt.txt)]              
 Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yanfeng Wang, Yu Wang, Ya Zhang    
-arXiv preprint 2023
+ArXiv preprint 2023
 
 
 
@@ -190,11 +190,11 @@ Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and S
 
 1. [Category-Oriented Representation Learning for Image to Multi-Modal Retrieval](https://arxiv.org/pdf/2305.03972)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan           
-arXiv preprint 2023   
+ArXiv preprint 2023   
 
 1. Cell Variational Information Bottleneck Network           
 Zhonghua Zhai, **Chen Ju**, Shuai Xiao, Jinsong Lan and Xiaoyi Zeng        
-arXiv preprint 2023 
+ArXiv preprint 2023 
 
 
 
