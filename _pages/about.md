@@ -148,6 +148,14 @@ Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang
 Mengting Chen, Xi Chen, Zhonghua Zhai, **Chen Ju**, Xuewen Hong, Jinsong Lan and Shuai Xiao                
 **ECCV 2024** 
 
+1. [Improving Human Image Animation via Semantic Representation Alignment]
+Chang Liu, Mengting Chen, Yixuan Huang, Haoning Wu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan and Yanfeng Wang               
+ArXiv 2025 
+
+1. [AnyScene: Camera-controllable Video Background Generation]
+Mingshuai Yao, Mengting Chen, Qinye Zhou, Yabo Zhang, Ming Liu, Xiaoming Li, Shaohui Liu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan, Wangmeng Zuo                       
+ArXiv 2025 
+
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
