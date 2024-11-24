@@ -89,7 +89,7 @@ Also feel free to drop me an email for any suggestions or potential collaboratio
 **CVPR 2023** 
 
 
-1. [FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance]
+1. FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance                                
 Haicheng Wang, Zhemeng Yu, Gabriele Spadaro, **Chen Ju**, Victor Quétu, Enzo Tartaglione                 
 ArXiv 2025 
 
@@ -113,12 +113,12 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 **WACV 2024** 
 
 
-1. [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training]
+1. Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training                               
 Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huang, Chang Liu, Mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu and Yanfeng Wang          
 ArXiv 2025 
 
 
-1. [Greater Together: Unimodal Group Outperforms Vanilla Multimodal Bootstrap]
+1. Greater Together: Unimodal Group Outperforms Vanilla Multimodal Bootstrap                                    
 Weixiong Lin, **Chen Ju**, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu                                      
 ArXiv 2025 
 
@@ -152,11 +152,11 @@ Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang
 Mengting Chen, Xi Chen, Zhonghua Zhai, **Chen Ju**, Xuewen Hong, Jinsong Lan and Shuai Xiao                
 **ECCV 2024** 
 
-1. [Improving Human Image Animation via Semantic Representation Alignment]
+1. Improving Human Image Animation via Semantic Representation Alignment                                        
 Chang Liu, Mengting Chen, Yixuan Huang, Haoning Wu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan and Yanfeng Wang               
 ArXiv 2025 
 
-1. [AnyScene: Camera-controllable Video Background Generation]
+1. AnyScene: Camera-controllable Video Background Generation                                      
 Mingshuai Yao, Mengting Chen, Qinye Zhou, Yabo Zhang, Ming Liu, Xiaoming Li, Shaohui Liu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan, Wangmeng Zuo                       
 ArXiv 2025 
 
