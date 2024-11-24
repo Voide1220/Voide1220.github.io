@@ -89,6 +89,11 @@ Also feel free to drop me an email for any suggestions or potential collaboratio
 **CVPR 2023** 
 
 
+1. [FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance]
+Haicheng Wang, Zhemeng Yu, Gabriele Spadaro, **Chen Ju**, Victor Quétu, Enzo Tartaglione                 
+ArXiv 2025 
+
+
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
 1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)] \| [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Bibtex](./CITE/cite_audio.txt)]                              
@@ -114,7 +119,7 @@ ArXiv 2025
 
 
 1. [Greater Together: Unimodal Group Outperforms Vanilla Multimodal Bootstrap](https://arxiv.org/pdf/2403.11074.pdf)   \|     [[Bibtex](./CITE/cite_unlabel.txt)]                           
-Weixiong Lin, **Chen Ju**, Haicheng Wang, Shuai Xiao and Ya Zhang            
+Weixiong Lin, **Chen Ju**, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu                                      
 ArXiv 2025 
 
 
