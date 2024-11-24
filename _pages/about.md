@@ -41,6 +41,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 # 🔥 News
 - ![new paper](/images/new.gif) Our work, [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2404.14890.pdf) is out!
+- ![new paper](/images/new.gif) Our work, [Greater Together: Unimodal Group Outperforms Vanilla Multimodal Bootstrap](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
@@ -105,6 +106,17 @@ Haicheng Wang, **Chen Ju**, Weixiong Lin, Jinxiang Liu, Chaofan Ma, Ya Zhang, Ya
 1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)  \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)] \| [[Bibtex](./CITE/cite_aavs.txt)]           
 Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
 **WACV 2024** 
+
+
+1. [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2403.11074.pdf)   \|     [[Bibtex](./CITE/cite_holism.txt)]                           
+Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huang, Chang Liu, Mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu and Yanfeng Wang          
+ArXiv 2025 
+
+
+1. [Audio-Visual Segmentation via Unlabeled Frames Exploitation](https://arxiv.org/pdf/2403.11074.pdf)   \|     [[Bibtex](./CITE/cite_unlabel.txt)]                           
+Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang            
+ArXiv 2025 
+
 
 
 
