@@ -99,8 +99,8 @@ Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang
 **CVPR 2024** 
 
 1. [Contrast and Unity for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|   [[Project & Code](https://voide1220.github.io/constraint_union/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
-**Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang         
-arXiv preprint 2023
+Haicheng Wang, **Chen Ju**, Weixiong Lin, Jinxiang Liu, Chaofan Ma, Ya Zhang, Yanfeng Wang         
+**ICASSP 2025** 
 
 1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)  \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)] \| [[Bibtex](./CITE/cite_aavs.txt)]           
 Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
@@ -175,7 +175,7 @@ arXiv preprint 2023
 
 
 # 🗞️ Academics and Communications
-- PC Member & Conference Reviewer: NeurIPS 2024, ECCV 2024/2022, CVPR 2024/2023, AAAI 2024/2023, ICCV 2023, ACM MM 2024/2023, WACV 2024/2025
+- PC Member & Conference Reviewer: ICLR2025, NeurIPS 2024, ECCV 2024/2022, CVPR 2025/2024/2023, AAAI 2024/2023, ICCV 2023, ACM MM 2024/2023, WACV 2024/2025
 - Journal Reviewers: IEEE T-PAMI, Springer IJCV, IEEE T-MM, IEEE TCSVT, NPL
 
 - I am fortunate to meet many interesting people & Team:
