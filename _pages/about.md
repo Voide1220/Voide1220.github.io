@@ -113,8 +113,8 @@ Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huan
 ArXiv 2025 
 
 
-1. [Audio-Visual Segmentation via Unlabeled Frames Exploitation](https://arxiv.org/pdf/2403.11074.pdf)   \|     [[Bibtex](./CITE/cite_unlabel.txt)]                           
-Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang            
+1. [Greater Together: Unimodal Group Outperforms Vanilla Multimodal Bootstrap](https://arxiv.org/pdf/2403.11074.pdf)   \|     [[Bibtex](./CITE/cite_unlabel.txt)]                           
+Weixiong Lin, **Chen Ju**, Haicheng Wang, Shuai Xiao and Ya Zhang            
 ArXiv 2025 
 
 
