@@ -114,7 +114,7 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 **WACV 2024** 
 
 
-1. Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training                               
+1. [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](/https://arxiv.org/pdf/2412.00440.pdf)  \|  [[Project & Code](https://github.com/anakin-skywalker-Joseph/Holistic-CLIP)] \| [[Bibtex](./CITE/cite_holistic.txt)]                               
 Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huang, Chang Liu, Mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu and Yanfeng Wang          
 ArXiv preprint 2025 
 
