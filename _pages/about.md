@@ -200,7 +200,7 @@ ArXiv preprint 2023
 
 
 # 🗞️ Academics and Communications
-- PC Member & Conference Reviewer: ICLR2025, NeurIPS 2024, ECCV 2024/2022, CVPR 2025/2024/2023, AAAI 2024/2023, ICCV 2023, ACM MM 2024/2023, WACV 2024/2025
+- PC Member & Conference Reviewer: ICML2025, ICLR2025, NeurIPS 2024, ECCV 2024/2022, CVPR 2025/2024/2023, AAAI 2024/2023, ICCV 2023, ACM MM 2024/2023, WACV 2024/2025
 - Journal Reviewers: IEEE T-PAMI, Springer IJCV, IEEE T-MM, IEEE TCSVT, NPL
 
 - I am fortunate to meet many interesting people & Team:
