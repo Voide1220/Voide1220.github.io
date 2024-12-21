@@ -1,0 +1,6 @@
+@article{cui2024counterfactual,
+  title={Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation},
+  author={Cui, Jiajun and Chen, Xu and Xiao, Shuai and Ju, Chen and Lan, Jinsong and Liu, Qingwen and Zhang, Wei},
+  journal={arXiv preprint arXiv:2411.18631},
+  year={2024}
+}
