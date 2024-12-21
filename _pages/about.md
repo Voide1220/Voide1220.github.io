@@ -189,9 +189,13 @@ ArXiv preprint 2023
 Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 **WWW 2024**
 
-1. [Category-Oriented Representation Learning for Image to Multi-Modal Retrieval](https://arxiv.org/pdf/2305.03972)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
+1. [Category-Oriented Representation Learning for Image to Multi-Modal Retrieval](https://arxiv.org/pdf/2305.03972.pdf)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan           
-ArXiv preprint 2023   
+ArXiv preprint 2023
+
+1. [Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation](https://arxiv.org/pdf/2411.18631.pdf)      \|  [[Bibtex](./CITE/cite_counterfactual.txt)]                         
+Jiajun Cui, Xu Chen, Shuai Xiao, **Chen Ju**, Jinsong Lan, Qingwen Liu and Wei Zhang
+ArXiv preprint 2024
 
 1. Cell Variational Information Bottleneck Network           
 Zhonghua Zhai, **Chen Ju**, Shuai Xiao, Jinsong Lan and Xiaoyi Zeng        
