@@ -40,7 +40,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 # 🔥 News
-- ![new paper](/images/new.gif) Our work, Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training will be out!
+- ![new paper](/images/new.gif) Our work, [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](/https://arxiv.org/pdf/2412.00440.pdf) is out!
 - ![new paper](/images/new.gif) Our work, Greater Together: Unimodal Group Outperforms Vanilla Multimodal Bootstrap will be out!
 - Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
