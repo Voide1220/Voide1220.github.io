@@ -1,0 +1,6 @@
+@article{wang2024advancing,
+  title={Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training},
+  author={Wang, Haicheng and Ju, Chen and Lin, Weixiong and Xiao, Shuai and Chen, Mengting and Huang, Yixuan and Liu, Chang and Yao, Mingshuai and Lan, Jinsong and Chen, Ying and others},
+  journal={arXiv preprint arXiv:2412.00440},
+  year={2024}
+}
