@@ -45,6 +45,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 - Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
+- [*2024.12*] Two papers are accepted to ICASSP 2025, about label-efficient video understanding, and AIGC-assisted image understanding.
 - [*2024.07*] Two papers are accepted to ECCV 2024, about innovative acceleration of foundation models, and interactive virtual try-on.
 - [*2024.06*] One paper is accepted to Springer IJCV, about open-set semantic segmentation via multi-modal prototypes.
 - [*2024.03*] One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
@@ -146,7 +147,7 @@ ArXiv preprint 2024
 ### 📒 Topic: Innovative AIGC Creativity, Free Vision-Text-Audio Editing and Composition
 1. [DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
-**ICCV 2023**
+**ICASSP 2025** 
 
 1. [Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment](https://arxiv.org/pdf/2403.12965.pdf) \| [[Project](https://mengtingchen.github.io/wear-any-way-page/)]  \| [[Bibtex](./CITE/cite_wear.txt)]               
 Mengting Chen, Xi Chen, Zhonghua Zhai, **Chen Ju**, Xuewen Hong, Jinsong Lan and Shuai Xiao                
