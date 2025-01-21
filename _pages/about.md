@@ -19,7 +19,9 @@ Now it has become one of the largest visual/multi-modal application scenarios in
 
 Recently, I study with some outstanding researchers from the CAD&CG State Key Laboratory, Zhejiang University: <a href="https://cshen.github.io/">Prof. Chunhua Shen</a>, <a href="https://scholar.google.com.hk/citations?user=FaOqRpcAAAAJ&hl=zh-CN">Prof. Hao Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=DFuDBBwAAAAJ&hl=zh-CN">Prof. Bohan Zhuang</a>, aiming to explore the efficient/unified architecture and paradigm for next-generation VLM.
 
-I’m also leading one small group that mainly works on Efficient Data Understanding & Generation for Multi-Modal Foundation Models(Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). <b>Actively recruiting research/engineering interns, please see <a href="https://zhuanlan.zhihu.com/p/707679629?utm_campaign=shareopn&utm_medium=social&utm_psn=1793706250598506498&utm_source=wechat_session">Link</a>, feel free to contact me!</b>  
+
+I’m also leading one small group that mainly works on Efficient Data Understanding & Generation for Multi-Modal Foundation Models(Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). <b>Actively recruiting research/engineering interns, please see <a href="https://zhuanlan.zhihu.com/p/19312048186">知乎</a> and 
+<a href="https://www.xiaohongshu.com/explore/678cfdba000000001b008219?xsec_token=ABFJERDESm9ju_CbUM6sDLgsQ2WqAuRD-FdpZUy3sQvYs=&xsec_source=pc_user">小红书</a>, feel free to contact me!</b>  
 
 
 
