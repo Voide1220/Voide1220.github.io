@@ -63,11 +63,13 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 # 💻 Researches
 My primary research interests lie in 
 
-- **Vision-Language-Music Learning**: Pre-training Alignment, Efficient Adaptation/Fine-Tuning, Training/Deployment Acceleration.
+- **Vision-Language-Music Learning**: Alignment Pre-Training, Efficient Adaptation/Fine-Tuning, Training/Deployment Acceleration.
 
-- **Data Governance/Flywheel & Mining**: Clean/Compress/Distill/Synthesize Data, Cross-Modal Retrieval/Recommendation/Advert. 
+- **Vision-Language Large Models**: Pre-Training, Continual-Training, Post-Training, SFT, CoT, RAG, MoE, ICL, Multi-Round Learning.
 
 - **Creative AIGC**：Generation/Fine Editing for Image/Video/Music, Conversation-Driven Understanding/Composition, RLHF Evalution.
+
+- **Data Governance/Flywheel & Mining**: Clean/Compress/Distill/Synthesize Data, Cross-Modal Retrieval/Recommendation/Advert. 
 
 - **Video Understanding**: Retrieval/Caption/Summary for Video Clips, Alignment/Detection/Classification for Untrimmed Long Videos.
 
