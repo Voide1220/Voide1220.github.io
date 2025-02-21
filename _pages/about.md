@@ -33,7 +33,7 @@ Before that, I explore with some outstanding researchers from WeChat Technology 
 Earlier, I collaborate with some outstanding researchers from PanGu Large Model (盘古大模型), Huawei: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, <a href="https://scholar.google.com.hk/citations?user=-JcFoOoAAAAJ&hl=zh-CN&oi=ao">Dr. Jiemin Fang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>, to explore VLM for B-side industrial scenarios.
 
 
-I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (人工智能学院院长) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>(海外优青), <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>(海外优青), <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. Before, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of outstanding graduate.
+I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (人工智能学院院长) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>(海外优青), <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>(海外优青), <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a>(海外优青) and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. Before, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of outstanding graduate.
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
@@ -195,7 +195,7 @@ Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and S
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan           
 ArXiv preprint 2023
 
-1. [Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation](https://arxiv.org/pdf/2411.18631.pdf)      \|  [[Bibtex](./CITE/cite_counterfactual.txt)]                         
+1. [Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation](https://arxiv.org/pdf/2411.18631.pdf)      \|  [[Bibtex](./CITE/cite_counterfactual.txt)]                                            
 Jiajun Cui, Xu Chen, Shuai Xiao, **Chen Ju**, Jinsong Lan, Qingwen Liu and Wei Zhang
 ArXiv preprint 2024
 
@@ -206,7 +206,7 @@ ArXiv preprint 2023
 
 
 # 🗞️ Academics and Communications
-- PC Member & Conference Reviewer: ICML2025, ICLR2025, NeurIPS 2024, ECCV 2024/2022, CVPR 2025/2024/2023, AAAI 2024/2023, ICCV 2023, ACM MM 2024/2023, WACV 2024/2025
+- PC Member & Conference Reviewer: ICML2025, ICLR2025, NeurIPS 2025/2024, ECCV 2024/2022, CVPR 2025/2024/2023, AAAI 2024/2023, ICCV 2025/2023, ACM MM 2025/2024/2023, WACV 2024/2025
 - Journal Reviewers: IEEE T-PAMI, Springer IJCV, IEEE T-MM, IEEE TCSVT, NPL
 
 - I am fortunate to meet many interesting people & Team:
@@ -316,7 +316,9 @@ Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng W
 - CN202310913202.4 [《基于属性分解-聚合的开放词汇语义分割方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
 Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.  
 - CN202410530557.X [《虚拟对象的生成方法、计算机终端、存储介质及产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
-Mengting Chen, Xi Chen, Zhonghua Zhai, **<u>Chen Ju</u>**, Xuewen Hong, Jinsong Lan, Shuai Xiao. 
+Mengting Chen, Xi Chen, Zhonghua Zhai, **<u>Chen Ju</u>**, Xuewen Hong, Jinsong Lan, Shuai Xiao.
+- CN202411370683.X [《虚拟对象的生成方法、计算机终端、存储介质及产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
+**<u>Chen Ju</u>**, Shuai Xiao, Haicheng Wang, Xu Chen, Mengting Chen, Jinsong Lan. 
 
 
 # 📖 Educations
