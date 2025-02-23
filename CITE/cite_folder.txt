@@ -1,0 +1,6 @@
+@article{wang2025folder,
+  title={FOLDER: Accelerating Multi-modal Large Language Models with Enhanced Performance},
+  author={Wang, Haicheng and Yu, Zhemeng and Spadaro, Gabriele and Ju, Chen and Qu{\'e}tu, Victor and Tartaglione, Enzo},
+  journal={arXiv preprint arXiv:2501.02430},
+  year={2025}
+}
