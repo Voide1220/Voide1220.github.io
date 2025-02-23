@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Chen Ju (鞠陈)"
 title_separator          : "-"
 name                     : "Chen Ju (鞠陈)"
-description              : "PhD"
+description              : "SJTU PhD"
 repository               : "Voide1220/Voide1220.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ baidu_site_verification  :
 author:
   name             : "Chen Ju"
   avatar           : "images/me.jpg"
-  bio              : "SJTU"
+  bio              : "Alibaba"
   location         : "Hangzhou, Shanghai"
   employer         :
   pubmed           : 
