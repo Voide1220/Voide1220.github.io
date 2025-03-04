@@ -320,8 +320,13 @@ Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng W
 Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.  
 - CN202410530557.X [《虚拟对象的生成方法、计算机终端、存储介质及产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
 Mengting Chen, Xi Chen, Zhonghua Zhai, **<u>Chen Ju</u>**, Xuewen Hong, Jinsong Lan, Shuai Xiao.
-- CN202411370683.X [《虚拟对象的生成方法、计算机终端、存储介质及产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
+- CN202411370683.X [《模型加速和数据处理方法、设备、存储介质及程序产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
 **<u>Chen Ju</u>**, Shuai Xiao, Haicheng Wang, Xu Chen, Mengting Chen, Jinsong Lan. 
+- CN202411370683.X [《模型加速和数据处理方法、设备、存储介质及程序产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
+Haicheng Wang, **<u>Chen Ju</u>**, Shuai Xiao, Weixiong Lin, Jinsong Lan, Xiaoyong Zhu.
+- CN202411370683.X [《模型加速和数据处理方法、设备、存储介质及程序产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
+Weixiong Lin, **<u>Chen Ju</u>**, Shuai Xiao, Haicheng Wang, Jinsong Lan.
+ 
 
 
 # 📖 Educations
