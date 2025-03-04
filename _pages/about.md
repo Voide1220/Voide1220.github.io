@@ -199,7 +199,7 @@ Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan
 ArXiv preprint 2023
 
 1. [Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation](https://arxiv.org/pdf/2411.18631.pdf)      \|  [[Bibtex](./CITE/cite_counterfactual.txt)]                                            
-Jiajun Cui, Xu Chen, Shuai Xiao, **Chen Ju**, Jinsong Lan, Qingwen Liu and Wei Zhang
+Jiajun Cui, Xu Chen, Shuai Xiao, **Chen Ju**, Jinsong Lan, Qingwen Liu and Wei Zhang                                            
 ArXiv preprint 2024
 
 1. Cell Variational Information Bottleneck Network           
@@ -322,9 +322,9 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 Mengting Chen, Xi Chen, Zhonghua Zhai, **<u>Chen Ju</u>**, Xuewen Hong, Jinsong Lan, Shuai Xiao.
 - CN202411370683.X [《模型加速和数据处理方法、设备、存储介质及程序产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
 **<u>Chen Ju</u>**, Shuai Xiao, Haicheng Wang, Xu Chen, Mengting Chen, Jinsong Lan. 
-- CN202411370683.X [《模型加速和数据处理方法、设备、存储介质及程序产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
+- CN202411370683.X [《一种多模态语义对齐嵌入优化与自适应推理方法及装置》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
 Haicheng Wang, **<u>Chen Ju</u>**, Shuai Xiao, Weixiong Lin, Jinsong Lan, Xiaoyong Zhu.
-- CN202411370683.X [《模型加速和数据处理方法、设备、存储介质及程序产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
+- CN202411370683.X [《一种基于单模态基础模型的数据治理框架》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
 Weixiong Lin, **<u>Chen Ju</u>**, Shuai Xiao, Haicheng Wang, Jinsong Lan.
  
 
