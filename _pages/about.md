@@ -37,7 +37,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
-<b> Google Scholar:</b> Citations 1000+, H-index 13, I10-index 15 </p>  
+<b> Google Scholar:</b> Citations 1000+, H-index 14, I10-index 15 </p>  
 
 
 
