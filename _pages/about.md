@@ -124,7 +124,7 @@ Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huan
 **CVPR 2025** 
 
 
-1. Greater Together: Unimodal Group Outperforms Vanilla Multimodal Bootstrap                                    
+1. Squeeze Out Tokens from Sample for Finer-Grained Data Governance                                                      
 Weixiong Lin, **Chen Ju**, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu                                      
 ArXiv preprint 2025 
 
