@@ -119,13 +119,13 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 **WACV 2024** 
 
 
-1. [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](/https://arxiv.org/pdf/2412.00440.pdf)  \|  [[Project & Code](https://voide1220.github.io/Holism/)] \| [[Bibtex](./CITE/cite_holistic.txt)]                               
+1. [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2412.00440.pdf)  \|  [[Project & Code](https://voide1220.github.io/Holism/)] \| [[Bibtex](./CITE/cite_holistic.txt)]                               
 Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huang, Chang Liu, Mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu and Yanfeng Wang          
 **CVPR 2025** 
 
 
-1. Squeeze Out Tokens from Sample for Finer-Grained Data Governance                                                      
-Weixiong Lin, **Chen Ju**, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu                                      
+1. [Squeeze Out Tokens from Sample for Finer-Grained Data Governance](https://arxiv.org/pdf/2503.14559.pdf)  \| [[Bibtex](./CITE/cite_squeeze.txt)]                                                       
+Weixiong Lin, **Chen Ju**, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Qingwen Liu, Ying Chen                                      
 ArXiv preprint 2025 
 
 
