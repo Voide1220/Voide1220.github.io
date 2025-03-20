@@ -1,0 +1,6 @@
+@article{lin2025squeeze,
+  title={Squeeze Out Tokens from Sample for Finer-Grained Data Governance},
+  author={Lin, Weixiong and Ju, Chen and Wang, Haicheng and Hu, Shengchao and Xiao, Shuai and Chen, Mengting and Jiao, Yuheng and Yao, Mingshuai and Lan, Jinsong and Liu, Qingwen and Chen, Ying},
+  journal={arXiv preprint arXiv:2503.14559},
+  year={2025}
+}
