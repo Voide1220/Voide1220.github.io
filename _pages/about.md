@@ -42,6 +42,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 # 🔥 News
+- ![new paper](/images/new.gif) Our new work, [Squeeze Out Tokens from Sample for Finer-Grained Data Governance](https://arxiv.org/pdf/2503.14559.pdf) is out!
 - ![new paper](/images/new.gif) Our new work, [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2412.00440.pdf) is out!
 - ![new paper](/images/new.gif) Our new work, [FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance](https://arxiv.org/pdf/2501.02430.pdf) is out!
 - Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
