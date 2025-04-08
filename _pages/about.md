@@ -163,7 +163,7 @@ Mengting Chen, Xi Chen, Zhonghua Zhai, **Chen Ju**, Xuewen Hong, Jinsong Lan and
 Chang Liu, Mengting Chen, Yixuan Huang, Haoning Wu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan and Yanfeng Wang               
 ArXiv preprint 2025 
 
-1. AnyScene: Camera-controllable Video Background Generation                                      
+1. [Beyond Static Scenes: Camera-controllable Background Generation for Human Motion](https://arxiv.org/pdf/2504.02004.pdf)    \| [[Bibtex](./CITE/cite_beyond.txt)]                                                                        
 Mingshuai Yao, Mengting Chen, Qinye Zhou, Yabo Zhang, Ming Liu, Xiaoming Li, Shaohui Liu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan, Wangmeng Zuo                       
 ArXiv preprint 2025 
 
