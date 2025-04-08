@@ -1,0 +1,6 @@
+@article{yao2025beyond,
+  title={Beyond Static Scenes: Camera-controllable Background Generation for Human Motion},
+  author={Yao, Mingshuai and Chen, Mengting and Zhou, Qinye and Zhang, Yabo and Liu, Ming and Li, Xiaoming and Liu, Shaohui and Ju, Chen and Xiao, Shuai and Liu, Qingwen and others},
+  journal={arXiv preprint arXiv:2504.02004},
+  year={2025}
+}
