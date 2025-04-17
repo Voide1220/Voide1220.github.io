@@ -37,17 +37,16 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
-<b> Google Scholar:</b> Citations 1100+, H-index 14, I10-index 15 </p>  
+<b> Google Scholar:</b> Citations 1100+, H-index 14, I10-index 16 </p>  
 
 
 
 # 🔥 News
+
+- ![new paper](/images/new.gif) Our new work, [Beyond Static Scenes: Camera-controllable Background Generation for Human Motion](https://arxiv.org/pdf/2504.02004.pdf) is out!
 - ![new paper](/images/new.gif) Our new work, [Squeeze Out Tokens from Sample for Finer-Grained Data Governance](https://arxiv.org/pdf/2503.14559.pdf) is out!
-- ![new paper](/images/new.gif) Our new work, [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2412.00440.pdf) is out!
 - ![new paper](/images/new.gif) Our new work, [FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance](https://arxiv.org/pdf/2501.02430.pdf) is out!
-- Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
-- Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
-- Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
+- Our work, [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2412.00440.pdf) is out!
 - [*2025.02*] Two papers are accepted to CVPR 2025, about high-quality vision-language alignment, and efficient MLLMs.
 - [*2024.12*] Two papers are accepted to ICASSP 2025, about label-efficient video understanding, and AIGC-assisted image understanding.
 - [*2024.07*] Two papers are accepted to ECCV 2024, about innovative acceleration of foundation models, and interactive virtual try-on.
