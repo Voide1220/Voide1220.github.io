@@ -97,8 +97,8 @@ Also feel free to drop me an email for any suggestions or potential collaboratio
 
 
 1. [FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance](https://arxiv.org/pdf/2501.02430.pdf)    \|  [[Project & Code](https://github.com/anakin-skywalker-Joseph/Folder/)]  \| [[Bibtex](./CITE/cite_folder.txt)]                                                           
-Haicheng Wang, Zhemeng Yu, Gabriele Spadaro, **Chen Ju**, Victor Quétu, Enzo Tartaglione                 
-ArXiv preprint 2025 
+Haicheng Wang, Zhemeng Yu, Gabriele Spadaro, **Chen Ju**, Victor Quétu, Shuai Xiao, Enzo Tartaglione                 
+**ICCV 2025** 
 
 
 
