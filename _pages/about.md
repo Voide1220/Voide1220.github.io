@@ -20,13 +20,6 @@ Now it has become one of the largest visual/multi-modal application scenarios in
 Recently, I study with some outstanding researchers from the CAD&CG State Key Laboratory, Zhejiang University: <a href="https://cshen.github.io/">Prof. Chunhua Shen</a>, <a href="https://scholar.google.com.hk/citations?user=FaOqRpcAAAAJ&hl=zh-CN">Prof. Hao Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=DFuDBBwAAAAJ&hl=zh-CN">Prof. Bohan Zhuang</a>, aiming to explore the efficient/unified architecture and paradigm for next-generation VLM.
 
 
-I’m also leading one small group that mainly works on Efficient Data Understanding & Generation for Multi-Modal Foundation Models(Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). <b>Actively recruiting research/engineering interns, please see <a href="https://zhuanlan.zhihu.com/p/19312048186">知乎</a> and 
-<a href="https://www.xiaohongshu.com/explore/678cfdba000000001b008219?xsec_token=ABFJERDESm9ju_CbUM6sDLgsQ2WqAuRD-FdpZUy3sQvYs=&xsec_source=pc_user">小红书</a>, feel free to contact me!</b>  
-
-
-
-
-
 Before that, I explore with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
 
 
@@ -39,6 +32,10 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
 <b> Google Scholar:</b> Citations 1400+, H-index 16, I10-index 20 </p>  
 
+
+
+I’m also leading one small group that mainly works on Efficient Data Understanding & Generation for Multi-Modal Foundation Models(Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). <b>Actively recruiting research/engineering interns, please see <a href="https://zhuanlan.zhihu.com/p/19312048186">知乎</a> and 
+<a href="https://www.xiaohongshu.com/explore/678cfdba000000001b008219?xsec_token=ABFJERDESm9ju_CbUM6sDLgsQ2WqAuRD-FdpZUy3sQvYs=&xsec_source=pc_user">小红书</a>, feel free to contact me!</b>  
 
 
 # 🔥 News
