@@ -164,6 +164,9 @@ ArXiv preprint 2025
 Mingshuai Yao, Mengting Chen, Qinye Zhou, Yabo Zhang, Ming Liu, Xiaoming Li, Shaohui Liu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan, Wangmeng Zuo                       
 ArXiv preprint 2025 
 
+1. [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation]()    \| [[Bibtex](./CITE/cite_beyond.txt)]                                                                        
+Yizhu Chen, Chen Ju, Zhicheng Wang, Shuai Xiao, Xu Chen, Jinsong Lan, Xiaoyong Zhu                                               
+ArXiv preprint 2025 
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
@@ -188,6 +191,11 @@ ArXiv preprint 2023
 
 
 ### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval & Sorting & Recall & Representation
+1. [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization]()          \|  [[Bibtex](./CITE/cite_cctr.txt)]                            
+Zhicheng Wang, **Chen Ju**, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao                      
+ArXiv preprint 2025
+
+
 1. [Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation](https://arxiv.org/pdf/2312.00078.pdf)          \|  [[Bibtex](./CITE/cite_cctr.txt)]                            
 Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 **WWW 2024**
