@@ -37,16 +37,13 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
-<b> Google Scholar:</b> Citations 1300+, H-index 16, I10-index 19 </p>  
+<b> Google Scholar:</b> Citations 1400+, H-index 16, I10-index 20 </p>  
 
 
 
 # 🔥 News
-
-- ![new paper](/images/new.gif) Our new work, [Beyond Static Scenes: Camera-controllable Background Generation for Human Motion](https://arxiv.org/pdf/2504.02004.pdf) is out!
-- ![new paper](/images/new.gif) Our new work, [Squeeze Out Tokens from Sample for Finer-Grained Data Governance](https://arxiv.org/pdf/2503.14559.pdf) is out!
-- ![new paper](/images/new.gif) Our new work, [FOLDER: Accelerating Multi-Modal Large Language Models with Enhanced Performance](https://arxiv.org/pdf/2501.02430.pdf) is out!
-- Our work, [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2412.00440.pdf) is out!
+- ![new paper](/images/new.gif) Our work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2504.02004.pdf) will be out!
+- ![new paper](/images/new.gif) Our new work, [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2503.14559.pdf) will be out!
 - [*2025.06*] One papers are accepted to ICCV 2025, about efficient inference of MLLMs.
 - [*2025.02*] Two papers are accepted to CVPR 2025, about high-quality vision-language alignment, and efficient MLLMs.
 - [*2024.12*] Two papers are accepted to ICASSP 2025, about label-efficient video understanding, and AIGC-assisted image understanding.
