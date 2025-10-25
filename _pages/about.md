@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm an algorithm researcher (阿里星荣誉) of Alibaba Future Living Laboratory, working closely with <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
+I'm an algorithm researcher (阿里星) of Alibaba Future Living Laboratory, working closely with <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
 The vision is to develop large-scale multi-modal searching & question-answering system (拍立淘) and general multi-modal technologies for various e-commerce applications, such as superlarge-scale pre-training (10-billion image-text product data), AIGC (GPT & VLM & Diffusion). 
 Now it has become one of the largest visual/multi-modal application scenarios in China.
 
@@ -42,7 +42,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 # 🔥 News
-- ![new paper](/images/new.gif) Our work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2504.02004.pdf) will be out!
+- ![new paper](/images/new.gif) Our new work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2504.02004.pdf) will be out!
 - ![new paper](/images/new.gif) Our new work, [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2503.14559.pdf) will be out!
 - [*2025.06*] One papers are accepted to ICCV 2025, about efficient inference of MLLMs.
 - [*2025.02*] Two papers are accepted to CVPR 2025, about high-quality vision-language alignment, and efficient MLLMs.
