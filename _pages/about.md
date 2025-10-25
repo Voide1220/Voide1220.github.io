@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm an algorithm researcher of Alibaba Future Living Laboratory, working closely with <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
+I'm an algorithm researcher (阿里星荣誉) of Alibaba Future Living Laboratory, working closely with <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
 The vision is to develop large-scale multi-modal searching & question-answering system (拍立淘) and general multi-modal technologies for various e-commerce applications, such as superlarge-scale pre-training (10-billion image-text product data), AIGC (GPT & VLM & Diffusion). 
 Now it has become one of the largest visual/multi-modal application scenarios in China.
 
@@ -320,11 +320,10 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 Mengting Chen, Xi Chen, Zhonghua Zhai, **<u>Chen Ju</u>**, Xuewen Hong, Jinsong Lan, Shuai Xiao.
 - CN202411370683.X [《模型加速和数据处理方法、设备、存储介质及程序产品》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
 **<u>Chen Ju</u>**, Shuai Xiao, Haicheng Wang, Xu Chen, Mengting Chen, Jinsong Lan. 
-- CN202411370683.X [《一种多模态语义对齐嵌入优化与自适应推理方法及装置》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
-Haicheng Wang, **<u>Chen Ju</u>**, Shuai Xiao, Weixiong Lin, Jinsong Lan, Xiaoyong Zhu.
-- CN202411370683.X [《一种基于单模态基础模型的数据治理框架》](https://cprs.patentstar.com.cn/Search/Detail?ANE=7DCA5AFA9IBC9DIG8AHA9ICC9BGBEHHA9ICB9FAC9DFH7DBA)       
+- CN202510067425.2 [《数据处理方法、计算设备以及电子设备》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GGF7GBA9IDEBGHA4CBA9HHF2BBA9GAD9BED9GGH8DDA9DGF)       
 Weixiong Lin, **<u>Chen Ju</u>**, Shuai Xiao, Haicheng Wang, Jinsong Lan.
- 
+- CN202510222281.3 [《图像处理方法、商品推荐方法和图像处理模型的训练方法》](https://cprs.patentstar.com.cn/Search/Detail?ANE=8DDA9EFA9HGG9AGC9FDA9EID5CBA6DBA8CEA9IEF9EEH5BDA)       
+Haicheng Wang, **<u>Chen Ju</u>**, Shuai Xiao, Weixiong Lin, Jinsong Lan, Xiaoyong Zhu.
 
 
 # 📖 Educations
