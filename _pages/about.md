@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm an algorithm researcher (阿里星) of Alibaba Future Living Laboratory, working closely with <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
+I'm an algorithm researcher (阿里星) of Alibaba Future Laboratory, working closely with <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
 The vision is to develop large-scale multi-modal searching & question-answering system (拍立淘) and general multi-modal technologies for various e-commerce applications, such as superlarge-scale pre-training (10-billion image-text product data), AIGC (GPT & VLM & Diffusion). 
 Now it has become one of the largest visual/multi-modal application scenarios in China.
 
@@ -342,6 +342,7 @@ Haicheng Wang, **<u>Chen Ju</u>**, Shuai Xiao, Weixiong Lin, Jinsong Lan, Xiaoyo
 
 
 # 🎖 Honors and Awards
+- [*2025*] Outstanding Star of Alibaba Future Laboratory
 - [*2024*] Top Talent Program by Technology Companies (Alibaba-Star, Huawei-Topminds, Tencent-QingYun, BaiDu-AIDU, KuaiShou-Star, JD-DMT)
 - [*2023*] First Prize of Shanghai Technology Invention Award
 - [*2022*] CMIC Outstanding Scholarship at SJTU (Top 1%)
