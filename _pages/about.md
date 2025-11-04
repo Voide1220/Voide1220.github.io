@@ -40,8 +40,8 @@ I’m also leading one small group that mainly works on Efficient Data Understan
 
 # 🔥 News
 - ![news](/images/new.gif) I am awarded the honor of Outstanding Star in Alibaba Future Laboratory.
-- ![new paper](/images/new.gif) Our new work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2504.02004.pdf) will be out!
-- ![new paper](/images/new.gif) Our new work, [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2503.14559.pdf) will be out!
+- ![new paper](/images/new.gif) Our new work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf) will be out!
+- ![new paper](/images/new.gif) Our new work, [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf) will be out!
 - [*2025.06*] One papers are accepted to ICCV 2025, about efficient inference of MLLMs.
 - [*2025.02*] Two papers are accepted to CVPR 2025, about high-quality vision-language alignment, and efficient MLLMs.
 - [*2024.12*] Two papers are accepted to ICASSP 2025, about label-efficient video understanding, and AIGC-assisted image understanding.
@@ -162,7 +162,7 @@ ArXiv preprint 2025
 Mingshuai Yao, Mengting Chen, Qinye Zhou, Yabo Zhang, Ming Liu, Xiaoming Li, Shaohui Liu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan, Wangmeng Zuo                       
 ArXiv preprint 2025 
 
-1. [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation]()    \| [[Bibtex](./CITE/cite_beyond.txt)]                                                                        
+1. [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf)    \| [[Bibtex](./CITE/cite_tokenizer.txt)]                                                                        
 Yizhu Chen, Chen Ju, Zhicheng Wang, Shuai Xiao, Xu Chen, Jinsong Lan, Xiaoyong Zhu                                               
 ArXiv preprint 2025 
 
@@ -189,7 +189,7 @@ ArXiv preprint 2023
 
 
 ### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval & Sorting & Recall & Representation
-1. [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization]()          \|  [[Bibtex](./CITE/cite_cctr.txt)]                            
+1. [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf)          \|  [[Bibtex](./CITE/cite_mllmemb.txt)]                            
 Zhicheng Wang, **Chen Ju**, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao                      
 ArXiv preprint 2025
 
