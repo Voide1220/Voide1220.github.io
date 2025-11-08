@@ -1,0 +1,6 @@
+@article{wang2025explore,
+  title={Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization},
+  author={Wang, Zhicheng and Ju, Chen and Chen, Xu and Xiao, Shuai and Lan, Jinsong and Zhu, Xiaoyong and Chen, Ying and Cao, Zhiguo},
+  journal={arXiv preprint arXiv:2511.01588},
+  year={2025}
+}
