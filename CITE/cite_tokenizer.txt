@@ -1,0 +1,6 @@
+@article{chen2025wave,
+  title={Wave-Particle (Continuous-Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation},
+  author={Chen, Yizhu and Ju, Chen and Wang, Zhicheng and Xiao, Shuai and Chen, Xu and Lan, Jinsong and Zhu, Xiaoyong and Chen, Ying},
+  journal={arXiv preprint arXiv:2511.01593},
+  year={2025}
+}
