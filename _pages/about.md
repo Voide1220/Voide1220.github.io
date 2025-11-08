@@ -163,7 +163,7 @@ Mingshuai Yao, Mengting Chen, Qinye Zhou, Yabo Zhang, Ming Liu, Xiaoming Li, Sha
 ArXiv preprint 2025 
 
 1. [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf)    \| [[Bibtex](./CITE/cite_tokenizer.txt)]                                                                        
-Yizhu Chen, Chen Ju, Zhicheng Wang, Shuai Xiao, Xu Chen, Jinsong Lan, Xiaoyong Zhu                                               
+Yizhu Chen, **Chen Ju**, Zhicheng Wang, Shuai Xiao, Xu Chen, Jinsong Lan, Xiaoyong Zhu                                               
 ArXiv preprint 2025 
 
 
