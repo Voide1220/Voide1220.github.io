@@ -40,8 +40,9 @@ I’m also leading one small group that mainly works on Efficient Data Understan
 
 # 🔥 News
 - ![news](/images/new.gif) I am awarded the honor of Outstanding Star in Alibaba Future Laboratory.
-- ![new paper](/images/new.gif) Our new work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf) will be out!
-- ![new paper](/images/new.gif) Our new work, [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf) will be out!
+- ![new paper](/images/new.gif) Our work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf) is out!
+- ![new paper](/images/new.gif) Our work, [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf) is out!
+- [*2026.01*] One papers are accepted to WWW 2026, about intelligent transaction agent system for e-commerce.
 - [*2025.06*] One papers are accepted to ICCV 2025, about efficient inference of MLLMs.
 - [*2025.02*] Two papers are accepted to CVPR 2025, about high-quality vision-language alignment, and efficient MLLMs.
 - [*2024.12*] Two papers are accepted to ICASSP 2025, about label-efficient video understanding, and AIGC-assisted image understanding.
