@@ -30,7 +30,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
-<b> Google Scholar:</b> Citations 1400+, H-index 16, I10-index 21 </p>  
+<b> Google Scholar:</b> Citations 1500+, H-index 16, I10-index 21 </p>  
 
 
 
@@ -42,8 +42,8 @@ I’m also leading one small group that mainly works on Efficient Data Understan
 - ![news](/images/new.gif) I am awarded the honor of Outstanding Star in Alibaba Future Laboratory.
 - ![new paper](/images/new.gif) Our work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf) is out!
 - ![new paper](/images/new.gif) Our work, [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf) is out!
-- [*2026.01*] One papers are accepted to WWW 2026, about intelligent transaction agent system for e-commerce.
-- [*2025.06*] One papers are accepted to ICCV 2025, about efficient inference of MLLMs.
+- [*2026.01*] Two papers are accepted to WWW 2026, about intelligent transaction agent system for e-commerce.
+- [*2025.06*] One paper is accepted to ICCV 2025, about efficient inference of MLLMs.
 - [*2025.02*] Two papers are accepted to CVPR 2025, about high-quality vision-language alignment, and efficient MLLMs.
 - [*2024.12*] Two papers are accepted to ICASSP 2025, about label-efficient video understanding, and AIGC-assisted image understanding.
 - [*2024.07*] Two papers are accepted to ECCV 2024, about innovative acceleration of foundation models, and interactive virtual try-on.
