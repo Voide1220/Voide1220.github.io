@@ -1,0 +1,6 @@
+@article{wang2025evaluating,
+  title={Evaluating Multi-Turn Bargain Skills in LLM-Based Seller Agent},
+  author={Wang, Issue Yishu and Chong, Kakam and Wang, Xiaofeng and Yan, Xu and Kong, DeXin and Ju, Chen and Chen, Ming and Xiao, Shuai and Han, Shuguang and others},
+  journal={arXiv preprint arXiv:2509.06341},
+  year={2025}
+}
