@@ -207,9 +207,10 @@ ArXiv preprint 2023
 Jiajun Cui, Xu Chen, Shuai Xiao, **Chen Ju**, Jinsong Lan, Qingwen Liu and Wei Zhang                                            
 ArXiv preprint 2024
 
-1. Cell Variational Information Bottleneck Network           
-Zhonghua Zhai, **Chen Ju**, Shuai Xiao, Jinsong Lan and Xiaoyi Zeng        
-ArXiv preprint 2023 
+
+1. [Evaluating Multi-Turn Bargain Skills in LLM-Based Seller Agents](https://arxiv.org/pdf/2509.06341v1.pdf)      \|  [[Bibtex](./CITE/cite_seller_agents.txt)]                  
+Issue Yishu Wang, Kakam Chong, Xiaofeng Wang, Xu Yan, Dexin Kong, **Chen Ju**, Ming Chen, Shuai Xiao, Shuguang Han,  Junfeng Chen                 
+**WWW 2026**
 
 
 
