@@ -1,0 +1,7 @@
+@article{chen2026pailitao,
+  title={Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search},
+  author={Chen, Lei and Ju, Chen and Chen, Xu and Wang, Zhicheng and Jiao, Yuheng and Zhan, Hongfeng and Li, Zhaoyang and Xu, Shihao and Zhao, Zhixiang and Jia, Tong and others},
+  journal={arXiv preprint arXiv:2602.13704},
+  year={2026}
+}
+  
