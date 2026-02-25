@@ -30,7 +30,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
-<b> Google Scholar:</b> Citations 1500+, H-index 16, I10-index 22 </p>  
+<b> Google Scholar:</b> Citations 1500+, H-index 18, I10-index 20 </p>  
 
 
 
@@ -39,9 +39,8 @@ I’m also leading one small group that mainly works on Efficient Data Understan
 
 
 # 🔥 News
+- ![new paper](/images/new.gif) Our new work, [Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/pdf/2602.13704.pdf) is out!
 - ![news](/images/new.gif) I am awarded the honor of Outstanding Star in Alibaba Future Laboratory.
-- ![new paper](/images/new.gif) Our work, [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf) is out!
-- ![new paper](/images/new.gif) Our work, [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf) is out!
 - [*2026.01*] Two papers are accepted to WWW 2026, about intelligent transaction agent system for e-commerce.
 - [*2025.06*] One paper is accepted to ICCV 2025, about efficient inference of MLLMs.
 - [*2025.02*] Two papers are accepted to CVPR 2025, about high-quality vision-language alignment, and efficient MLLMs.
@@ -190,6 +189,11 @@ ArXiv preprint 2023
 
 
 ### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval & Sorting & Recall & Representation
+1. [Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/pdf/2602.13704.pdf)          \|  [[Bibtex](./CITE/cite_pailitao.txt)]                            
+Lei Chen, **Chen Ju**, Xu Chen, Zhicheng Wang, Yuheng Jiao, Hongfeng Zhan, Zhaoyang Li, Shihao Xu, Zhixiang Zhao, Tong Jia, Jinsong Lan, Xiaoyong Zhu, Bo Zheng                                              
+ArXiv preprint 2026
+
+
 1. [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf)          \|  [[Bibtex](./CITE/cite_mllmemb.txt)]                            
 Zhicheng Wang, **Chen Ju**, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao                      
 ArXiv preprint 2025
