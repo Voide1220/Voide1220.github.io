@@ -30,7 +30,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
-<b> Google Scholar:</b> Citations 1500+, H-index 18, I10-index 20 </p>  
+<b> Google Scholar:</b> Citations 1600+, H-index 18, I10-index 20 </p>  
 
 
 
@@ -41,6 +41,8 @@ I’m also leading one small group that mainly works on Efficient Data Understan
 # 🔥 News
 - ![new paper](/images/new.gif) Our new work, [Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/pdf/2602.13704.pdf) is out!
 - ![news](/images/new.gif) I am awarded the honor of Outstanding Star in Alibaba Future Laboratory.
+- [*2026.04*] One paper is accepted to Transactions on Information Systems, about long sequence modeling for search and recommendation.
+- [*2026.03*] One paper is accepted to ICME 2026, about scene generation for human-centric videos.
 - [*2026.01*] Two papers are accepted to WWW 2026, about intelligent transaction agent system for e-commerce.
 - [*2025.06*] One paper is accepted to ICCV 2025, about efficient inference of MLLMs.
 - [*2025.02*] Two papers are accepted to CVPR 2025, about high-quality vision-language alignment, and efficient MLLMs.
@@ -96,6 +98,11 @@ Haicheng Wang, Zhemeng Yu, Gabriele Spadaro, **Chen Ju**, Victor Quétu, Shuai X
 **ICCV 2025** 
 
 
+1. [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf)          \|  [[Bibtex](./CITE/cite_mllmemb.txt)]                            
+Zhicheng Wang, **Chen Ju**, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao                      
+ArXiv preprint 2025
+
+
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
 1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)] \| [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Bibtex](./CITE/cite_audio.txt)]                              
@@ -131,9 +138,11 @@ ArXiv preprint 2025
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
 **Springer IJCV**
 
+
 1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
 **NeurIPS 2023**
+
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
@@ -148,19 +157,18 @@ ArXiv preprint 2024
 ### 📒 Topic: Innovative AIGC Creativity, Free Vision-Text-Audio Editing and Composition
 1. [DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
-**ICASSP 2025** 
+**ICASSP 2025**
+
 
 1. [Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment](https://arxiv.org/pdf/2403.12965.pdf) \| [[Project](https://mengtingchen.github.io/wear-any-way-page/)]  \| [[Bibtex](./CITE/cite_wear.txt)]               
 Mengting Chen, Xi Chen, Zhonghua Zhai, **Chen Ju**, Xuewen Hong, Jinsong Lan and Shuai Xiao                
 **ECCV 2024** 
 
-1. Improving Human Image Animation via Semantic Representation Alignment                                        
-Chang Liu, Mengting Chen, Yixuan Huang, Haoning Wu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan and Yanfeng Wang               
-ArXiv preprint 2025 
 
 1. [Beyond Static Scenes: Camera-controllable Background Generation for Human Motion](https://arxiv.org/pdf/2504.02004.pdf)    \| [[Bibtex](./CITE/cite_beyond.txt)]                                                                        
 Mingshuai Yao, Mengting Chen, Qinye Zhou, Yabo Zhang, Ming Liu, Xiaoming Li, Shaohui Liu, **Chen Ju**, Shuai Xiao, Qingwen Liu, Jinsong Lan, Wangmeng Zuo                       
-ArXiv preprint 2025 
+**ICME 2026**
+
 
 1. [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf)    \| [[Bibtex](./CITE/cite_tokenizer.txt)]                                                                        
 Yizhu Chen, **Chen Ju**, Zhicheng Wang, Shuai Xiao, Xu Chen, Jinsong Lan, Xiaoyong Zhu                                               
@@ -172,15 +180,18 @@ ArXiv preprint 2025
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Yanfeng Wang and Qi Tian                
 **ICCV 2021** 
 
+
 1. [Bottom-Up Temporal Action Localization with
 Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Demo](https://voide1220.github.io/adapter/)]  \|   [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]   \|  [[Bibtex](./CITE/cite_bottom.txt)]               
 Peisen Zhao, Lingxi Xie, **Chen Ju**, Ya Zhang, Yanfeng Wang and Qi Tian               
 **ECCV 2020**
 
+
 1. [Adaptive Mutual Supervision for
 Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)  \|  [[Project & Demo](https://voide1220.github.io/adapter/)]  \|   [[Bibtex](./CITE/cite_adaptive.txt)]            
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
+
 
 1. [Audio-Aware Query-Enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|  [[Bibtex](./CITE/cite_aqt.txt)]              
 Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yanfeng Wang, Yu Wang, Ya Zhang    
@@ -191,25 +202,25 @@ ArXiv preprint 2023
 ### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval & Sorting & Recall & Representation
 1. [Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/pdf/2602.13704.pdf)          \|  [[Bibtex](./CITE/cite_pailitao.txt)]                            
 Lei Chen, **Chen Ju**, Xu Chen, Zhicheng Wang, Yuheng Jiao, Hongfeng Zhan, Zhaoyang Li, Shihao Xu, Zhixiang Zhao, Tong Jia, Jinsong Lan, Xiaoyong Zhu, Bo Zheng                                              
-ArXiv preprint 2026
+Technical Report 2026
 
 
-1. [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf)          \|  [[Bibtex](./CITE/cite_mllmemb.txt)]                            
-Zhicheng Wang, **Chen Ju**, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao                      
-ArXiv preprint 2025
+
 
 
 1. [Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation](https://arxiv.org/pdf/2312.00078.pdf)          \|  [[Bibtex](./CITE/cite_cctr.txt)]                            
 Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 **WWW 2024**
 
+
 1. [Category-Oriented Representation Learning for Image to Multi-Modal Retrieval](https://arxiv.org/pdf/2305.03972.pdf)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan           
 ArXiv preprint 2023
 
+
 1. [Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation](https://arxiv.org/pdf/2411.18631.pdf)      \|  [[Bibtex](./CITE/cite_counterfactual.txt)]                                            
 Jiajun Cui, Xu Chen, Shuai Xiao, **Chen Ju**, Jinsong Lan, Qingwen Liu and Wei Zhang                                            
-ArXiv preprint 2024
+**IEEE Transactions on Information Systems**
 
 
 1. [Evaluating Multi-Turn Bargain Skills in LLM-Based Seller Agents](https://arxiv.org/pdf/2509.06341v1.pdf)      \|  [[Bibtex](./CITE/cite_seller_agents.txt)]                  
@@ -218,8 +229,10 @@ Issue Yishu Wang, Kakam Chong, Xiaofeng Wang, Xu Yan, Dexin Kong, **Chen
 
 
 
+
+
 # 🗞️ Academics and Communications
-- PC Member & Conference Reviewer: ICML2025, ICLR2026/2025, NeurIPS 2026/2025/2024, ECCV 2024/2022, CVPR 2026/2025/2024/2023, AAAI 2025/2024/2023, ICCV 2025/2023, ACM MM 2025/2024/2023, WACV 2024/2025
+- PC Member & Conference Reviewer: ICML2026/2025, ICLR2026/2025, NeurIPS 2026/2025/2024, ECCV 2026/2024/2022, CVPR 2026/2025/2024/2023, AAAI 2026/2025/2024/2023, ICCV 2025/2023, ACM MM 2026/2025/2024/2023, WACV 2025/2024
 - Journal Reviewers: IEEE T-PAMI, Springer IJCV, IEEE T-MM, IEEE TCSVT, NPL
 
 - I am fortunate to meet many interesting people & Team:
