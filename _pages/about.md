@@ -205,9 +205,6 @@ Lei Chen, **Chen Ju**, Xu Chen, Zhicheng Wang, Yuheng Jiao, Hongfeng Zhan, Zhaoy
 Technical Report 2026
 
 
-
-
-
 1. [Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation](https://arxiv.org/pdf/2312.00078.pdf)          \|  [[Bibtex](./CITE/cite_cctr.txt)]                            
 Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 **WWW 2024**
@@ -227,6 +224,10 @@ Jiajun Cui, Xu Chen, Shuai Xiao, **Chen Ju**, Jinsong Lan, Qingwen Liu and Wei Z
 Issue Yishu Wang, Kakam Chong, Xiaofeng Wang, Xu Yan, Dexin Kong, **Chen Ju**, Ming Chen, Shuai Xiao, Shuguang Han,  Junfeng Chen                 
 **WWW 2026**
 
+
+1. [Multi-Branch Cooperation Networks for Enhanced Click-Through Rate Prediction in Large-Scale E-Commerce Search](https://arxiv.org/pdf/2305.03972.pdf)    \|  [[Bibtex](./CITE/cite_immr.txt)]               
+Xu Chen, Zida Cheng, Shuai Xiao, **Chen Ju**, Xiaoming Liu, Jinsong Lan, Xiaoyong Zhu and Bo Zheng           
+**WWW 2026**
 
 
 
