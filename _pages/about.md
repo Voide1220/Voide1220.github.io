@@ -41,7 +41,7 @@ I’m also leading one small group that mainly works on Efficient Data Understan
 # 🔥 News
 - ![new paper](/images/new.gif) Our new work, [Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/pdf/2602.13704.pdf) is out!
 - ![news](/images/new.gif) I am awarded the honor of Outstanding Star in Alibaba Future Laboratory.
-- [*2026.04*] One paper is accepted to Transactions on Information Systems, about long sequence modeling for search and recommendation.
+- [*2026.04*] One paper is accepted to IEEE Transactions on Information Systems, about long sequence modeling for recommendation.
 - [*2026.03*] One paper is accepted to ICME 2026, about scene generation for human-centric videos.
 - [*2026.01*] Two papers are accepted to WWW 2026, about intelligent transaction agent system for e-commerce.
 - [*2025.06*] One paper is accepted to ICCV 2025, about efficient inference of MLLMs.
@@ -62,9 +62,9 @@ I’m also leading one small group that mainly works on Efficient Data Understan
 # 💻 Researches
 My primary research interests lie in 
 
-- **Vision-Language-Music Learning**: Alignment Pre-Training, Efficient Adaptation/Fine-Tuning, Training/Deployment Acceleration.
+- **Multi-Modal Language Large Models**: Pre-Training, Continual-Training, Post-Training, SFT, Reason, RL, RAG, MoE, Interleaved Learning.
 
-- **Vision-Language Large Models**: Pre-Training, Continual-Training, Post-Training, SFT, CoT, RAG, MoE, ICL, Multi-Round Learning.
+- **Vision-Language-Music Alignment**: Pre-Training, Efficient Adaptation/Fine-Tuning, Training/Deployment Acceleration.
 
 - **Creative AIGC**：Generation/Fine Editing for Image/Video/Music, Conversation-Driven Understanding/Composition, RLHF Evalution.
 
