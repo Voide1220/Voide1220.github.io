@@ -99,7 +99,7 @@ Haicheng Wang, Zhemeng Yu, Gabriele Spadaro, **Chen Ju**, Victor Quétu, Shuai X
 
 
 1. [Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization](https://arxiv.org/pdf/2511.01588.pdf)          \|  [[Bibtex](./CITE/cite_mllmemb.txt)]                            
-Zhicheng Wang, **Chen Ju**, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao                      
+Zhicheng Wang, **Chen Ju**<sup>✉</sup>, Xu Chen, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Zhiguo Cao                      
 ArXiv preprint 2025
 
 
@@ -109,13 +109,16 @@ ArXiv preprint 2025
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**
 
+
 1. [Audio-Visual Segmentation via Unlabeled Frames Exploitation](https://arxiv.org/pdf/2403.11074.pdf)   \|     [[Bibtex](./CITE/cite_unlabel.txt)]                           
 Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang            
 **CVPR 2024** 
 
+
 1. [Contrast and Unity for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|   [[Project & Code](https://voide1220.github.io/constraint_union/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
-Haicheng Wang, **Chen Ju**, Weixiong Lin, Jinxiang Liu, Chaofan Ma, Ya Zhang, Yanfeng Wang         
+Haicheng Wang, **Chen Ju**<sup>✉</sup>, Weixiong Lin, Jinxiang Liu, Chaofan Ma, Ya Zhang, Yanfeng Wang         
 **ICASSP 2025** 
+
 
 1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)  \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)] \| [[Bibtex](./CITE/cite_aavs.txt)]           
 Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
@@ -123,14 +126,13 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 
 
 1. [Advancing Myopia To Holism: Fully Contrastive Language-Image Pre-training](https://arxiv.org/pdf/2412.00440.pdf)  \|  [[Project & Code](https://voide1220.github.io/Holism/)] \| [[Bibtex](./CITE/cite_holistic.txt)]                               
-Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huang, Chang Liu, Mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu and Yanfeng Wang          
+Haicheng Wang, **Chen Ju**<sup>✉</sup>, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huang, Chang Liu, Mingshuai Yao, Jinsong Lan, Ying Chen, Qingwen Liu and Yanfeng Wang          
 **CVPR 2025** 
 
 
 1. [Squeeze Out Tokens from Sample for Finer-Grained Data Governance](https://arxiv.org/pdf/2503.14559.pdf)  \| [[Bibtex](./CITE/cite_squeeze.txt)]                                                       
 Weixiong Lin, **Chen Ju**<sup>✉</sup>, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Qingwen Liu, Ying Chen                                      
 ArXiv preprint 2025 
-
 
 
 ### 📒 Topic: Understand World through Open-Vocabulary Learning, and also Rethinking Limitations
@@ -148,8 +150,9 @@ Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
 **Springer IJCV**
 
+
 1. [DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition](https://arxiv.org/pdf/2404.14890.pdf) \| [[Bibtex](./CITE/cite_robust.txt)]                                   
-Haozhe Cheng, **Chen Ju**, Haicheng Wang, Jinxiang Liu, Mengting Chen, Qiang Hu, Xiaoyun Zhang and Yanfeng Wang            
+Haozhe Cheng, **Chen Ju**<sup>✉</sup>, Haicheng Wang, Jinxiang Liu, Mengting Chen, Qiang Hu, Xiaoyun Zhang and Yanfeng Wang            
 ArXiv preprint 2024
 
 
@@ -176,7 +179,7 @@ Chang Liu, Mengting Chen, Yixuan Huang, Haoning Wu, **Chen Ju**, Shuai Xiao, Jin
 
 
 1. [Wave-Particle (Continuous–Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation](https://arxiv.org/pdf/2511.01593.pdf)    \| [[Bibtex](./CITE/cite_tokenizer.txt)]                                                                        
-Yizhu Chen, **Chen Ju**, Zhicheng Wang, Shuai Xiao, Xu Chen, Jinsong Lan, Xiaoyong Zhu                                               
+Yizhu Chen, **Chen Ju**<sup>✉</sup>, Zhicheng Wang, Shuai Xiao, Xu Chen, Jinsong Lan, Xiaoyong Zhu                                               
 ArXiv preprint 2025 
 
 
@@ -206,7 +209,7 @@ ArXiv preprint 2023
 
 ### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval & Sorting & Recall & Representation
 1. [Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/pdf/2602.13704.pdf)          \|  [[Bibtex](./CITE/cite_pailitao.txt)]                            
-Lei Chen, **Chen Ju**, Xu Chen, Zhicheng Wang, Yuheng Jiao, Hongfeng Zhan, Zhaoyang Li, Shihao Xu, Zhixiang Zhao, Tong Jia, Jinsong Lan, Xiaoyong Zhu, Bo Zheng                                              
+Lei Chen, **Chen Ju**<sup>✉</sup>, Xu Chen, Zhicheng Wang, Yuheng Jiao, Hongfeng Zhan, Zhaoyang Li, Shihao Xu, Zhixiang Zhao, Tong Jia, Jinsong Lan, Xiaoyong Zhu, Bo Zheng                                              
 Technical Report 2026
 
 
