@@ -128,7 +128,7 @@ Haicheng Wang, **Chen Ju**, Weixiong Lin, Shuai Xiao, Mengting Chen, Yixuan Huan
 
 
 1. [Squeeze Out Tokens from Sample for Finer-Grained Data Governance](https://arxiv.org/pdf/2503.14559.pdf)  \| [[Bibtex](./CITE/cite_squeeze.txt)]                                                       
-Weixiong Lin, **Chen Ju**, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Qingwen Liu, Ying Chen                                      
+Weixiong Lin, **Chen Ju**<sup>✉</sup>, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Qingwen Liu, Ying Chen                                      
 ArXiv preprint 2025 
 
 
