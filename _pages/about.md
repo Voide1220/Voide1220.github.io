@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm an algorithm researcher (阿里星) of Alibaba Future Laboratory, working closely with <a href="https://scholar.google.com.hk/citations?user=3gHhO9QAAAAJ&hl=zh-CN&oi=ao">Dr. Bo Zheng</a>, <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
+I'm an algorithm researcher (阿里星) of Alibaba Future Life Laboratory (未来生活实验室), working closely with <a href="https://scholar.google.com.hk/citations?user=3gHhO9QAAAAJ&hl=zh-CN&oi=ao">Dr. Bo Zheng</a>, <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
 The vision is to develop large-scale multi-modal searching & question-answering system (拍立淘) and general multi-modal technologies for various e-commerce applications, such as superlarge-scale pre-training (10-billion image-text product data), AIGC (GPT & VLM & Diffusion). 
 Now it has become one of the largest visual/multi-modal application scenarios in China.
 
@@ -40,7 +40,7 @@ I’m also leading one small group that mainly works on Efficient Data Understan
 
 # 🔥 News
 - ![new paper](/images/new.gif) Our new work, [Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/pdf/2602.13704.pdf) is out!
-- ![news](/images/new.gif) I am awarded the honor of Outstanding Star in Alibaba Future Laboratory.
+- ![news](/images/new.gif) I am awarded the honor of Outstanding Star in Alibaba Future Life Laboratory.
 - [*2026.04*] One paper is accepted to IEEE Transactions on Information Systems, about long sequence modeling for recommendation.
 - [*2026.03*] One paper is accepted to ICME 2026, about scene generation for human-centric videos.
 - [*2026.01*] Two papers are accepted to WWW 2026, about intelligent transaction agent system for e-commerce.
