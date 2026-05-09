@@ -132,7 +132,7 @@ Haicheng Wang, **Chen Ju**<sup>✉</sup>, Weixiong Lin, Shuai Xiao, Mengting Che
 
 1. [Squeeze Out Tokens from Sample for Finer-Grained Data Governance](https://arxiv.org/pdf/2503.14559.pdf)  \| [[Bibtex](./CITE/cite_squeeze.txt)]                                                       
 Weixiong Lin, **Chen Ju**<sup>✉</sup>, Haicheng Wang, Shengchao Hu, Shuai Xiao, Mengting Chen, Yuheng Jiao, mingshuai Yao, Jinsong Lan, Qingwen Liu, Ying Chen                                      
-ArXiv preprint 2025 
+**ICIP 2026** 
 
 
 ### 📒 Topic: Understand World through Open-Vocabulary Learning, and also Rethinking Limitations
@@ -153,7 +153,7 @@ Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang
 
 1. [DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition](https://arxiv.org/pdf/2404.14890.pdf) \| [[Bibtex](./CITE/cite_robust.txt)]                                   
 Haozhe Cheng, **Chen Ju**<sup>✉</sup>, Haicheng Wang, Jinxiang Liu, Mengting Chen, Qiang Hu, Xiaoyun Zhang and Yanfeng Wang            
-ArXiv preprint 2024
+**ICIP 2026**
 
 
 
